@@ -1,2 +1,2 @@
 # advanced-react
- advnaced React > 16.0 features 
+Advanced React > 16.0 features 
